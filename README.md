@@ -1,17 +1,10 @@
 <h1 align="center"">Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, soy <a href="https://shwetang550.github.io/profile/">Santiago!</a></h1>
 <br>
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
-
-<br>
-
-<br>
-
-<br>
-
 <h1> Hago que funcione. Después lo hago lindo. </h1>
-
 <br>
-
+<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+<br>
+<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15F766&width=600&height=60&lines=Lic++en+dise%C3%B1o%2C+aunque+este+GIT+no+lo+refleja." alt="Typing SVG" /></a>
 <hr>
 
